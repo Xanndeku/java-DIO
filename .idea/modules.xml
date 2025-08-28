@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contole/contole.iml" filepath="$PROJECT_DIR$/contole/contole.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-DIO.iml" filepath="$PROJECT_DIR$/.idea/java-DIO.iml" />
     </modules>
   </component>
